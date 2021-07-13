@@ -1,0 +1,10 @@
+{
+  "name": "Pudim",
+  "displayName": "Pudim",
+  "expo": {
+    "name": "Pudim",
+    "slug": "Pudim",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
